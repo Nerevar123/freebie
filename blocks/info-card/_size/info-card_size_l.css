@@ -1,0 +1,8 @@
+.info-card_size_l {
+  grid-column-start: 1;
+  grid-column-end: 3;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  padding-bottom: 32px;
+  column-gap: 20px;
+}

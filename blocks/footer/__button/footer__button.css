@@ -1,0 +1,9 @@
+.footer__button {
+  font-weight: bold;
+  font-size: 12px;
+  line-height: 1.25;
+  border-radius: 4px;
+  padding: 18px 64px;
+  justify-self: start;
+  margin-top: 8px;
+}

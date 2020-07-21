@@ -1,0 +1,4 @@
+.offer__heading-title {
+  display: flex;
+  flex-direction: column;
+}

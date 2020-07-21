@@ -1,0 +1,4 @@
+.package__order {
+  display: flex;
+  justify-content: space-between;
+}

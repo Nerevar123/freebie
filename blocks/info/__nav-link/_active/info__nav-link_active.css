@@ -1,0 +1,5 @@
+.info__nav-link_active {
+  color: #EC1F46;
+  border-bottom: 4px solid #EC1F46;
+  padding-bottom: 15px;
+}

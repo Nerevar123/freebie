@@ -1,0 +1,14 @@
+.subscribe {
+  background-image: url(../images/subscribe-bg.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  min-height: 260px;
+  position: relative;
+  color: #FFFFFF;
+  z-index: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

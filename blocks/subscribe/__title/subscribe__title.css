@@ -1,0 +1,7 @@
+.subscribe__title {
+  display: flex;
+  flex-direction: column;
+  margin-right: 140px;
+  margin-top: 12px;
+  margin-bottom: 0;
+}

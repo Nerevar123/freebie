@@ -1,0 +1,14 @@
+.offer__info {
+  font-family: 'Nunito', Arial, sans-serif;
+  grid-area: info;
+  background: #0A223D;
+  border-radius: 8px;
+  color: white;
+  padding: 28px;
+  display: grid;
+  grid-template-columns: repeat(2, minmax(min-content, max-content));
+  justify-content: space-between;
+  column-gap: 96px;
+  row-gap: 12px;
+  white-space: nowrap;
+}

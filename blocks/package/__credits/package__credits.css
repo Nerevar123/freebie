@@ -1,0 +1,7 @@
+.package__credits {
+  font-size: 12px;
+  line-height: 1.25;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 24px;
+}

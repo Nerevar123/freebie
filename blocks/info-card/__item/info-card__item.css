@@ -1,0 +1,6 @@
+.info-card__item {
+  font-size: 12px;
+  line-height: 1.25;
+  display: flex;
+  margin-bottom: 20px;
+}

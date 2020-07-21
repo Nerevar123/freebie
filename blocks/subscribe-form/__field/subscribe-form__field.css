@@ -1,0 +1,10 @@
+.subscribe-form__field {
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 1.3;
+  color: #BDBDBD;
+  border: 0;
+  background-color: white;
+  padding: 19px 0 18px 33px;
+  width: 100%;
+}

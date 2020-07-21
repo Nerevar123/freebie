@@ -1,0 +1,8 @@
+.activity__title {
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 1.25;
+  z-index: 1;
+  margin-top: 0;
+  margin-bottom: 20px;
+}

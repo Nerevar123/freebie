@@ -1,0 +1,5 @@
+.offer__card {
+    grid-template-areas:
+    "image image"
+    "info map";
+  }

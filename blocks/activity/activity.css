@@ -1,0 +1,13 @@
+.activity {
+  min-height: 255px;
+  max-width: 255px;
+  color: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: flex-start;
+  padding: 24px;
+  box-sizing: border-box;
+  border-radius: 6px;
+}

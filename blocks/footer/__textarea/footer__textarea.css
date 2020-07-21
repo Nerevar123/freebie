@@ -1,0 +1,4 @@
+.footer__textarea {
+  grid-area: message;
+  min-height: 120px;
+}

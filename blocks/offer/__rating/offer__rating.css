@@ -1,0 +1,10 @@
+.offer__rating {
+  background-color: #EC1F46;
+  border-radius: 4px;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 8px;
+}

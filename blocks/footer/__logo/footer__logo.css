@@ -1,0 +1,7 @@
+.footer__logo {
+  font-size: 64px;
+  line-height: 1;
+  max-width: 168px;
+  overflow-wrap: break-word;
+  align-self: center;
+}

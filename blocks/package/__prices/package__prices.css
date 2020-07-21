@@ -1,0 +1,5 @@
+.package__prices {
+  display: flex;
+  flex-direction: column;
+
+}

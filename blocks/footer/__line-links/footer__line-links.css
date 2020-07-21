@@ -1,0 +1,5 @@
+.footer__line-links {
+  display: flex;
+  justify-content: center;
+  grid-area: line;
+}

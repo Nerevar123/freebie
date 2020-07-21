@@ -1,0 +1,10 @@
+.search-form__field {
+  background-color: #F5FAFE;
+  border: 0;
+  border-radius: 6px 0 0 6px;
+  font-size: 12px;
+  line-height: 1.25;
+  color: #333333;
+  padding: 12px 0 13px 23px;
+  width: 285px;
+}

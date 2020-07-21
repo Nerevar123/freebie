@@ -1,0 +1,7 @@
+.header__main {
+  padding: 40px 11.45%;
+  background-color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}

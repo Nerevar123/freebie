@@ -1,0 +1,11 @@
+.footer__form {
+  grid-area: form;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-areas:
+  "title title"
+  "name number"
+  "message message"
+  "button req";
+  gap: 16px 32px;
+}

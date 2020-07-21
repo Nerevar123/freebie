@@ -1,0 +1,5 @@
+.info-card__list_type_grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  column-gap: 68px;
+}

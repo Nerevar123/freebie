@@ -1,0 +1,6 @@
+.info-card__list_type_details {
+  display: grid;
+  grid-template-columns: 42% 47%;
+  column-gap: 50px;
+  row-gap: 28px;
+}

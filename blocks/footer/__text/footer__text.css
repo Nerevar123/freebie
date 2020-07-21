@@ -1,0 +1,11 @@
+.footer__text {
+  text-decoration: none;
+  font-size: 14px;
+  line-height: 1.6;
+  color: #BDBDBD;
+  margin-top: 0;
+  margin-bottom: 20px;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+}

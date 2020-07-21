@@ -1,0 +1,7 @@
+.package__old-price {
+  content: '';
+  font-size: 14px;
+  line-height: 1.3;
+  text-decoration-line: line-through;
+  margin-bottom: 8px;
+}

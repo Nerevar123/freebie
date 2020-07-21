@@ -1,0 +1,4 @@
+.footer__pay-icons {
+  grid-area: pay;
+  justify-self: end;
+}
